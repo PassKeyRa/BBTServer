@@ -1,4 +1,4 @@
-## Big Bang Theory Server
+## The Big Bang Theory Server
 
 Simple python HTTP server with file download and upload features
 
